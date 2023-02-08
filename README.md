@@ -5,7 +5,7 @@ Apps development student 📲
 ## My projects
 I'm currently working on an iOS App
 
-🙈  Check it out!: 
+🙈  Check it out! 
 [Raise Company](https://github.com/hdevmei/RaiseCompanyApp) 
 
 
