@@ -1,9 +1,9 @@
 # Hey, I'm Mei 👋🏻
 
-Apps development student
+Apps development student 📲
 
 ## My projects
-I'm currently working on an iOS App 📱
+I'm currently working on an iOS App
 Check it out! 🙈
 
 
